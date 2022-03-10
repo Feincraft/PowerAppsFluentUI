@@ -1,8 +1,10 @@
 # PowerApps UI Kit
 A themed UI kit for PowerApps with Dark Mode and OS specific controls
 
-Want to build a custom PowerApps theme?
+Want to build a custom PowerApps theme? 
+
 Don't start from scratch.
+
 Check out my starter kit with Dark Mode, OS-specific styling and custom colors.
 
 ![img](https://raw.githubusercontent.com/Feincraft/PowerAppsFluentUI/main/FluentUI.gif)
